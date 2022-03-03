@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
+min_version = 0.54
 
 [params]
   # dir name of your main content (default is `content/posts`).
